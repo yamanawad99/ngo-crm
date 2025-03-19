@@ -1,0 +1,372 @@
+برنامج إلكتروني لتنظيم عمل قسم البرامج والمشاريع والكفالات
+
+فهرس بالصفحات الأساسية المقترحة التي نريد أن ندرجها في البرنامج: 
+
+# 	العنوان 
+    1. 	أولاً: الجهات المانحة 
+    2. 	ثانياً: قسم البرامج والمشاريع
+    أ. دراسات المشاريع:
+    • Full proposal
+    • Concept notes
+    ب. التقارير الدورية والنهائية
+    ت. متابعة سير عمل مشروع
+    3. 	ثالثاً: قسم الكفالات 
+    • أسر 
+    • أيتام
+    • طالب علم
+    • ذوي احتياجات خاصة
+    4. 	المتطوعين
+
+
+
+
+
+
+أولاً: الجهات المانحة 
+
+    • داتا بيس بالمانحين ومعلومات مفصلة عنهم. 
+    • فرز  المانحين حسب نوعيتهم (رجال أعمال / مانحين فرديين / جمعيات دولية / سفارات / شركات / طبيعة العمل أو التخصص ...). 
+    • إعداد صفحة تعريفية لكل مانح على حدى.
+    • رزنامة بالتواريخ لرفع المشاريع والتقديم عليها – تذكير.
+
+    1.  Organization Information
+    • Organization ID (Unique Identifier)
+    • Organization Name
+    • Type of Organization (e.g., NGO, government, private entity)
+    • Contact Information (Phone, Email, Fax) more than 1 contact
+    • Website URL
+    • Address (Country, State, City, Postal Code)
+    • Country
+    • Scope Of Work (sectors) could be more than 1 option: Relief, Education, Health, Livelihood, Protection and sponsorship
+    2. Programs
+    • Program ID (Unique Identifier)
+    • Organization name
+    • Program Sector
+    • Project Name
+    • Program Description
+    • Funded or not: Send date, (upload docs)
+    • If yes:
+        ◦ Date of Funding approval
+        ◦ Start Date
+        ◦ End Date
+        ◦ Funding Amount (Budget)
+        ◦ Currency – currency in USD
+        ◦ Target Beneficiaries (e.g., individuals, communities, sectors)
+        ◦ Eligibility Criteria
+        ◦ Geographical Focus (Regions/Countries)
+        ◦ Program Status (Ongoing, Completed, Planned)
+        ◦ Memorandum of Understanding (MoU) Details upload (free box)
+        ◦ Upload docs (1 or more)
+    3. Fund collected
+    • Amount collected
+    • Date received
+    • Disbursement Method (e.g., bank transfer, in-kind, cash)
+    • Field description
+
+
+ملاحظة: 
+نريد أن يزودنا الباب بمعلومات مفصلة على أن يصدر نتائج المانحين حسب المعايير المحددة: 
+    • البلد 
+    • المانحين 
+    • اهتماماتهم حسب قطاعات المشاريع
+    • بناء على التبرعات
+
+ثانياً: قسم البرامج والمشاريع
+
+    • إنشاء أرشيف خاص للمشاريع: 
+
+اسم المشروع نبذة مختصرة عن المشروع	قطاع المشروع	مكان تنفيذ المشروع	عدد المستفيدين من الذكور	عدد المستفيدين من الإناث	عدد المستفيدين من الأطفال	موازنة المشروع
+
+
+وعليه تفسح هذه الخطوة للجمعية أن تقوم بإعداد تقرير خاص لها ضمن هذه البنود. 
+
+    • عناوين أخرى مقترحة ضمن هذا الباب: 
+نماذج المشاريع	دورة حياة المشروع	أبرز الاحصائيات
+تقارير  تنفيذ المشاريع يرفع للجهة المانحة ويشمل ميزانية المشروع
+
+    • ملاحظة: يشمل هذا الباب على خاصية تسمح لأكثر من فرد أن يكون لهم User name & password خاص يفسح لهم المجال على إنشاء أرشيف خاص لها حيث تستطيع إدخال المشاريع التي نفذتها.
+    • تذكير بضرورة إصدار التقرير الدوري أو النهائي (بعد أسبوعين)
+    1.  Project Overview دراسة المشروع
+    • Project ID (Unique Identifier)
+    • Project Name
+    • Project sector: Relief, Education, Health, Livelihood, Protection and sponsorship
+    • Project Description
+    • Start Date
+    • End Date
+    • Implementation Stage Status (Planned, Ongoing, Completed)
+    • country
+    • city
+    • Project Manager/Coordinator
+    • Key Objectives
+    • Number of beneficiaries 
+    • Budget
+
+    2. Activity Tracking
+    • Activity ID (Unique Identifier)
+    • Activity Name
+    • Description of Activity
+    • Responsible Team/Person
+    • Budget
+    • Actual Start Date
+    • Actual End Date
+    • Status (Planned, In Progress, Completed, Delayed)
+    • Key Milestones & Dependencies (Linked Activities)
+    • Issues/Challenges Identified
+    • Resolution/Comments
+    3. Request to distribute: طلب اعتماد
+    • Request ID (Unique Identifier)
+    • Project ID
+    • ((تظهر معلومات المشروع تلقائيا
+    • Scheduled Start Date
+    • Scheduled End Date
+    • Number of beneficiaries 
+    • City
+    • Requested budget
+    • Local partner (if found)
+    • Resource Supplier/Source & Logistics needed with budget (Table for resources and budget)
+    • Notes
+Budgeted from NGO funder – Actual from Board
+
+    4. Budget and Financials قسم يظهر الاعتمادات 
+    • Allocated Budget (Amount)
+    • Requested (Amount)
+    • Actual Expenditure (Amount)
+    • Currency
+    • Date of Expenditure
+    • Description of Expense
+    • Payment Method (e.g., Bank Transfer, Cash)
+    • Supporting Documentation (Invoices, Receipts)
+    • Staff participated
+    5. Monitoring and Progress
+    • Monitoring ID (Unique Identifier)
+    • Date of Monitoring
+    • Monitored By (Team/Individual)
+    • Progress Status (On Track, Delayed, Ahead of Schedule)
+    • Indicator(s) Measured
+    • Performance Metrics (e.g., KPIs, Milestones Achieved)
+    • Challenges/Barriers
+    • Recommendations
+    • Progress Notes
+    6. Beneficiary Information
+    • Beneficiary ID (Unique Identifier)
+    • Name of Beneficiary (Upload list of Beneficiaries)
+    • Beneficiary Type (Individual, Community, Organization)
+    • Contact Information if organization or association
+    • Location (Country, City)
+    • Type of Support Received (Financial, Training, In Kind, voucher etc.)
+    • Date of Support
+    • Feedback from Beneficiaries
+    • Amount/Value of Assistance
+    • Impact/Outcome
+    7. Risks and Issues 
+    • Description of Risk/Issue
+    • Date Identified
+    • Category (Operational, Financial, Technical)
+    • Impact Level (Low, Medium, High)
+    • Mitigation Plan
+    • Responsible Team/Person
+    • Resolution Date
+    • Current Status
+    8. Reporting
+    • Report ID (Unique Identifier)
+    • Report Name
+    • Type of Report (e.g., Annual Report, Project Progress Report, Final Report)
+    • Status (Pending, In Progress, Delivered)
+    • Planned Completion Date
+    • Actual Completion Date
+    • Submission Date
+    • Author | Prepared By
+    • Recipient(s)
+    • Report Summary
+    • Associated Program/Project
+    • Project report upload include media
+    9. Documentation
+    • Document ID (Unique Identifier)
+    • Document Type (Policy, Contract, Plan)
+    • Upload Date
+    • Linked Activity/Deliverable
+    • File Path/URL
+
+    4. Stakeholder Feedback اخطار حول مشروع 
+    • Feedback ID (Unique Identifier)
+    • Project ID
+    • Source (e.g., Partner, Donor)
+    • Name of Source
+    • Feedback Description
+    • Feedback Date
+    • Action Taken – Upload
+ثالثاً: قسم الكفالات
+
+    • استمارة دراسة حالة الأسرة على كل الصعد (الصحي / الاجتماعي / الاقتصادي / التعليمي / الإيواء / الغذائي ..) 
+    • استمارة مفصلة لدراسة حالة، خاصة باليتيم على حدى.
+    • أرشيف كامل لليتيم / الأسرة / طالب علم/ ذوي احتياجات خاصة: تشمل كافة المرفقات (هوية / شهادة وفاة الأم أو الأب / إخراج قيد / صورة شخصية / شهادة تعليمية/ نسخة من التقرير المرسل للكافل/ نسخة من التقرير المرسل...). 
+    • تصميم نماذج لكل الفئات المذكورة أعلاه: بروفايل تعريفي/ تقرير .
+    • تدوين قيمة الدفعات التي تم إرسالها من الجهة المانحة مع التواريخ.
+    • خانة لبدء الكفالة وتاريخ الانتهاء.
+    • تدوين قيمة الدفعات التي تم تسليمها للمستفيدين مع التواريخ.
+    • تقارير: مستحقات المكفولين شهري وفصلي/ الكفلاء المتأخرين/ إحصائية / مناطقية / الجنس / العمر/ البلد/ الجهة المانحة.
+    • ملاحظة: من الممكن أن يكون أكثر من كافل للمستفيد.
+    • ربط المكفول بالجهة المانحة (من الممكن أن يكون هناك أكثر من جهة مانحة للمكفول).
+    • تحديد قيمة الكفالة ونوعها لكل فئة (تعليمية – صحية – معيشية).
+    • تذكير بضرورة العمل على التقارير للجهات المانحة.
+
+رابعا: المتطوعين
+1. Volunteer Personal Information
+    • Volunteer ID (Unique Identifier)
+    • First Name
+    • Last Name
+    • Date of Birth
+    • Gender
+    • Contact Information (Phone, Email)
+    • Address (Street, City, State, Postal Code, Country)
+    • Emergency Contact Name
+    • Emergency Contact Relationship
+    • Emergency Contact Phone
+2. Volunteer Background
+    • Educational Background
+    • Occupation/Profession
+    • Skills (E.g., First Aid, Teaching, Fundraising)
+    • Languages Spoken - List
+    • Previous Volunteer Experience
+    • Certifications or Licenses
+3. Volunteer Availability
+    • Preferred Days (E.g., Weekends, Weekdays)
+    • Preferred Hours (Morning, Afternoon, Evening)
+    • Start Date of Volunteering
+    • End Date of Volunteering (if applicable)
+    • Availability Frequency (E.g., Weekly, Monthly, Ad Hoc)
+4. Volunteer Roles and Assignments
+    • Role Assigned (E.g., Tutor, Event Coordinator)
+    • Department/Program (E.g., Education, Health, Environment, Sponsorship, Financial resource department)
+    • Location of Assignment (E.g., Office, Field)
+    • Supervisor
+    • Start Date of Assignment
+    • End Date of Assignment
+    • Tasks and Responsibilities
+5. Volunteer Engagement
+    • Events Participated (Event Ids or name, Dates)
+    • Programs Supported
+    • Hours Contributed
+    • Feedback Received from Supervisors
+    • Feedback Given by Volunteer
+    • Achievements/Contributions (E.g., Funds Raised, People Helped)
+6. Volunteer Training
+    • Training ID (Unique Identifier)
+    • Training Name
+    • Training Date
+    • Certification Earned
+    • Training Provider
+    • Completion Status (Completed, Ongoing, Not Completed)
+7. Volunteer Performance
+    • Performance Evaluations (Rating, Comments)
+    • Evaluation Date
+    • Evaluated By
+    • Volunteer Satisfaction Score
+    • Recognition/Awards Received
+8. Communication and Preferences
+    • Preferred Communication Method (Email, Phone, Messaging App)
+    • Newsletter Subscription Status
+    • Social Media Links (Optional)
+    • Notes or Special Requests
+9. Volunteer Status
+    • Status (Active, Inactive, Pending, Retired)
+    • Reason for Inactivity (If applicable)
+    • Reactivation Date (If applicable)
+    • Exit Date
+    • Exit Interview Notes
+10. Document Management
+    • Volunteer Agreement Signed (Yes/No)
+    • Date of Agreement
+    • Background Check Completed (Yes/No)
+    • Date of Background Check
+    • Uploaded Documents (E.g., ID, Certificates)
+11. Audit Logs
+    • Log ID (Unique Identifier)
+    • Action Taken (E.g., Updated Availability, Role Assignment)
+    • Date & Time of Action
+    • Changed By
+
+
+خامساً: توصيات
+
+البرامج والمشاريع
+        ◦ إضافة مكتبة معرفية:
+            ▪ مكتبة تضم قوالب جاهزة مثل خطط المشاريع أو تقارير التنفيذ التي يمكن تحميلها وتعديلها.
+توصيات عامة 
+        ◦ إضافة لوحات بيانات تفاعلية:
+            ▪ لوحة لمراقبة الأداء اللحظي (Real-time dashboard) تعرض إحصائيات مثل أعداد المستفيدين، المشاريع قيد التنفيذ، الكفالات النشطة، وساعات التطوع.
+        ◦ واجهة مستخدم سهلة الاستخدام:
+            ▪ تصميم واجهة مستخدم بسيطة وبديهية لتسهيل استخدام البرنامج من قبل جميع الأفراد بغض النظر عن مستوى خبرتهم التقنية.
+        ◦ دعم متعدد اللغات:
+            ▪ إضافة دعم للغات متعددة لتسهيل استخدام البرنامج من قبل الجهات المانحة الدولية والمتطوعين الأجانب.
+        ◦ نظام نسخ احتياطي:
+            ▪ توفير نظام نسخ احتياطي تلقائي للبيانات لضمان عدم فقدان المعلومات في حالة حدوث أي مشكلة تقنية.
+        ◦ نظام إشعارات وتذكيرات:
+            ▪ تذكير بمواعيد تقديم التقارير الدورية والنهائية.
+            ▪ تذكير بمواعيد تقديم المشاريع للجهات المانحة.
+            ▪ تذكير بمواعيد دفع الكفالات واستحقاقات المستفيدين.
+        ◦ نظام تقارير متقدم:
+            ▪ إمكانية إنشاء تقارير مخصصة حسب معايير محددة (مثل تقارير عن المشاريع حسب القطاع، الكفالات حسب المنطقة، إلخ). تحديد لائحة بقائمة التقارير المطلوبة
+            ▪ إصدار تقارير إحصائية عن المستفيدين، الكفالات، والمشاريع. تحديد لائحة بقائمة التقارير المطلوبة
+        ◦ نظام أمان وصول:
+            ▪ توفير أسماء مستخدمين وكلمات مرور لكل فرد في الفريق مع تحديد صلاحيات الوصول حسب الدور (مدير مشروع، موظف علاقات عامة، إلخ).
+        ◦ نظام إدارة الوثائق:
+            ▪ إمكانية رفع وتخزين الوثائق المهمة (عقود، تقارير، صور، إلخ) وربطها بالمشاريع أو الكفالات أو المتطوعين.
+            ▪ إدارة نسخ الوثائق وإصداراتها.
+        ◦ تخزين توثيقات المشاريع:
+            ▪ إضافة مكتبة لتخزين الصور 
+        ◦ صلاحيات الوصول
+            ▪ إنشاء حسابات لكل مستخدم.
+            ▪ تحديد صلاحيات واضحة حسب الدور:
+            ▪ المدير: إدارة كاملة.
+            ▪ موظف علاقات عامة: الوصول للكفالات فقط.
+            ▪ موظف مشاريع: متابعة المشاريع فقط.
+
+نموذج لآلية العمل
+
+        ◦ تحديد متطلبات النظام
+    أ) فهم احتياجات العمل
+    • عند وصول مبلغ معين إلى الموارد (مثلاً تمويل مشروع معين أو كفالة):
+        ◦ النظام يرسل إنذارًا لقسم المشاريع أو الكفالات بناءً على طبيعة المشروع أو نوع الكفالة.
+        ◦ الإنذار يكون مرئيًا (في واجهة البرنامج) ومسموعًا (إشعار صوتي أو بريد إلكتروني /SMS)
+
+
+
+إشعارات المتعلقة بالمشاريع	إشعارات المتعلقة بالكفالات	إشعارات عامة
+    • إشعار بتمويل مشروع:
+        ◦ يُرسل عندما يتم استلام مبلغ يغطي احتياجات مشروع معين بالكامل.
+    • إشعار بتقدم حالة المشروع:
+        ◦ يُرسل لتحديث حالة المشروع (تم التخطيط/جارٍ التنفيذ/اكتمل).
+    • إشعار بالموعد النهائي:
+        ◦ تنبيه بقرب موعد تسليم تقرير أو تنفيذ مهمة.	    • إشعار بتلقي كفالة:
+        ◦ يُرسل عند استلام مبلغ مخصص لكفالة مستفيد معين.
+    • إشعار بانتهاء فترة الكفالة:
+        ◦ يُرسل لتنبيه القسم أو الكفيل بأن فترة الكفالة على وشك الانتهاء.
+    • إشعار بحاجة عاجلة:
+        ◦ تنبيه بحالة طارئة تستدعي تحركًا سريعًا (مثل كفالة طبية مستعجلة).	    • إشعار بموعد دوري:
+        ◦ تذكير بمواعيد تسليم تقارير دورية أو تقديم طلبات تمويل جديدة.
+    • إشعار بنقص التمويل:
+        ◦ يُرسل عند الحاجة إلى مزيد من التمويل لتغطية مشروع أو كفالة.
+    • إشعار بالأنشطة القادمة:
+        ◦ تنبيه بموعد نشاط معين ضمن المشروع.
+
+
+        ◦ تصميم واجهة المستخدم
+أ) لوحة الإدارة
+    • عرض لحظي للبيانات: المبالغ المستلمة مقابل المطلوب لكل مشروع أو كفالة.
+    • نظام ألوان تنبيهي:
+        ◦ أحمر: لم يتم استلام أي مبلغ.
+        ◦ أصفر: تم استلام جزء من المبلغ.
+        ◦ أخضر: تم استلام كامل المبلغ.
+        ◦ خطوات إضافية مقترحة
+أ) إضافة ميزة التذكير الآلي
+    • تذكير أسبوعي بالأموال المتبقية لتغطية المشاريع أو الكفالات.
+    • تنبيه إذا لم يتم صرف المبلغ المستلم خلال فترة زمنية محددة.
+
+ب) إعداد نظام النسخ الاحتياطي
+    • حفظ نسخ دورية من قاعدة البيانات لتجنب فقدان البيانات.
+
+
+    • إمكانية الربط بشركة bulk sms  لارسال رسائل للمستفيدين
+
+

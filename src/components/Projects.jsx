@@ -115,6 +115,14 @@ const Projects = () => {
           </Form.Item>
 
           <Form.Item
+            name="description"
+            label="description"
+            rules={[{ required: false, message: 'هذا الحقل مطلوب' }]}
+          >
+            <Input />
+          </Form.Item>
+
+          <Form.Item
             name="status"
             label="الحالة"
             rules={[{ required: true, message: 'هذا الحقل مطلوب' }]}

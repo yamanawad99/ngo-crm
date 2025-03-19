@@ -72,6 +72,7 @@ export const AuthProvider = ({ children }) => {
       console.log(response);
       // Set token in local storage
       localStorage.setItem('token', response.token);
+      console.log(response, "yaman")
       setToken(response.token);
       
       return response;
